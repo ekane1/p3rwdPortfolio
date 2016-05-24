@@ -1,7 +1,15 @@
 /********************
-YOUR STYLES
+IMPORTS
 *******************/
 
+@import url('reset.css');
+@import url('accessibility.css');
+@import url('card-styles.css');
+
+
+/********************
+YOUR STYLES
+*******************/
 
 
 
