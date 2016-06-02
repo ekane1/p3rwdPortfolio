@@ -23,7 +23,7 @@ body {
 }
 
 .card a:hover {
-	box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+	box-shadow: 4px 4px 8px hsl(0, 0%, 70%);
 }
 
 .card-content {
