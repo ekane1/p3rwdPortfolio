@@ -14,7 +14,9 @@ body {
 
 .card {
 	background: white;
-	margin-bottom: 2em;	
+	margin-bottom: 2em;
+	border: white;
+	border-width: 2px;
 }
 
 .card a {
